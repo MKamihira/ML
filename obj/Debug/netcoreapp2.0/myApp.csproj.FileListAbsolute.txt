@@ -1,0 +1,11 @@
+D:\自学用\proj\myApp\bin\Debug\netcoreapp2.0\myApp.deps.json
+D:\自学用\proj\myApp\bin\Debug\netcoreapp2.0\myApp.runtimeconfig.json
+D:\自学用\proj\myApp\bin\Debug\netcoreapp2.0\myApp.runtimeconfig.dev.json
+D:\自学用\proj\myApp\bin\Debug\netcoreapp2.0\myApp.dll
+D:\自学用\proj\myApp\bin\Debug\netcoreapp2.0\myApp.pdb
+D:\自学用\proj\myApp\obj\Debug\netcoreapp2.0\myApp.csprojResolveAssemblyReference.cache
+D:\自学用\proj\myApp\obj\Debug\netcoreapp2.0\myApp.csproj.CoreCompileInputs.cache
+D:\自学用\proj\myApp\obj\Debug\netcoreapp2.0\myApp.AssemblyInfoInputs.cache
+D:\自学用\proj\myApp\obj\Debug\netcoreapp2.0\myApp.AssemblyInfo.cs
+D:\自学用\proj\myApp\obj\Debug\netcoreapp2.0\myApp.dll
+D:\自学用\proj\myApp\obj\Debug\netcoreapp2.0\myApp.pdb
